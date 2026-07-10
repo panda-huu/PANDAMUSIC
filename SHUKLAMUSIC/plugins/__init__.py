@@ -1,1 +1,17 @@
-
+ALL_MODULES = [
+    ".start",
+    ".play",
+    ".ping",
+    ".stats",
+    ".platforms",
+    ".welcome",
+    ".broadcast",
+    ".couple",
+    ".tagall",
+    ".moderation",
+    ".blacklist",
+    ".noabuse",
+    ".chatbot",
+    ".maintenance",
+    ".botkick",
+]
