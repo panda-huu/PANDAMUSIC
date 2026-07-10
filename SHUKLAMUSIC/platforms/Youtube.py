@@ -1,9 +1,3 @@
-# ---------------------------------------------------------------
-# 🔸 ShrutiMusic Api Youtube.py file.
-# 🔹 Developed & Maintained by: Nand Yaduvanshi (https://github.com/NoxxOP)
-# 📅 Copyright © 2025 – All Rights Reserved
-# ❤️ Made with dedication and love by NoxxOP & itzshukla
-# ---------------------------------------------------------------
 
 import asyncio
 import os
@@ -16,7 +10,7 @@ from py_yt import VideosSearch, Playlist
 import aiohttp
 
 API_URL = os.environ.get("SHRUTI_API_URL", "https://aruyt.up.railway.app")
-API_KEY = os.environ.get("SHRUTI_API_KEY", "YUKI-zi4hcOkYs0tBIAX9QzDc9iTn")
+API_KEY = os.environ.get("SHRUTI_API_KEY", "PUT_API_KEY_HERE") #𝐆𝐄𝐍𝐄𝐑𝐀𝐓𝐄 𝐅𝐑𝐄 𝐀𝐏𝐈 𝐊𝐄𝐘 𝐅𝐑𝐎𝐌 𝐓𝐇𝐈𝐒 𝐁𝐎𝐓 @ARUAPI_V2BOT
 DOWNLOAD_DIR = "downloads"
 
 
