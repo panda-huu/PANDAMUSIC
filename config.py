@@ -7,9 +7,9 @@ DATABASE_PASSWORD = "nikitayt7?#Rhu"  # password alag rakha — special chars sa
 # ↑ Upar <PASSWORD> ki jagah apna actual Supabase password daalo
 
 # ─── Required ───────────────────────────────────────────────────────────────
-API_ID    = 20898349          # your api id
-API_HASH  = "9fdb830d1e435b785f536247f49e7d87"         # your api hash
-BOT_TOKEN = "8800826100:AAFMZsDEjbGahJFTZTQuSjjfV9naowOEbi4"         # your bot token
+API_ID    = API_ID          # your api id
+API_HASH  = "YOUR_API_HASH"         # your api hash
+BOT_TOKEN = "YOUR_BOT_TOKEN"         # your bot token
 
 # ─── Owner & Bot Info ────────────────────────────────────────────────────────
 OWNER_ID       = 7450385463              # your telegram user id
@@ -25,7 +25,7 @@ SUPPORT_CHANNEL = "https://t.me/sxypndu"
 SUPPORT_CHAT    = "https://t.me/+hXQIhjEPfC1jZTY1"
 
 # ─── Assistant Session Strings ───────────────────────────────────────────────
-STRING1 = "BQE-4i0AE85mujraUV1cYz_7p94nXFksmtOigac6hvrAMGis2u0DhtpYhmDg_dPkb9ulX0wopnZqGu8ivO9FFTilXfwCM4GrxrxjTk3zLgX6QXHVzd2jMJgxklB5Ykx_5-E-yo6Z6U6TRu2P_rskP1UaZQh7kOAfXoO7T9yX7VbjddmMONa72ShrY4tSHDRqWfJ34D4oSHlVneni-I5vlD_IIGS4_e3UaeO_O5c6Ch_Uy8brlWIRq6kNAtCVWXEAGT3-2PslU34u4pYyeRS2Pt7IIc1xyTYvR8CvFY4xP9_K_D3yoruFyhlCR6KFJimq7ahsC4_ld0mCbEupiglFWCuasokUuQAAAAHKarFXAA"
+STRING1 = "YOUR_STRING_SESSION"
 STRING2 = ""  # optional
 STRING3 = ""  # optional
 STRING4 = ""  # optional
