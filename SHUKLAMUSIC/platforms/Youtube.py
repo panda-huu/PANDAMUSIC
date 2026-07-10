@@ -11,7 +11,7 @@ from py_yt import VideosSearch, Playlist
 import aiohttp
 
 API_URL = os.environ.get("SHRUTI_API_URL", "https://aruyt.up.railway.app")
-API_KEY = os.environ.get("SHRUTI_API_KEY", "YUKI-CyFjJ3AjNonm5LOmN4ZuEGPu") #𝐆𝐄𝐓 𝐀𝐏𝐈 𝐊𝐄𝐘 𝐅𝐑𝐎𝐌 𝐇𝐄𝐑𝐄 @ARUAPI_V2BOT
+API_KEY = os.environ.get("SHRUTI_API_KEY", "YUKI-zi4hcOkYs0tBIAX9QzDc9iTn") #𝐆𝐄𝐓 𝐀𝐏𝐈 𝐊𝐄𝐘 𝐅𝐑𝐎𝐌 𝐇𝐄𝐑𝐄 @ARUAPI_V2BOT
 DOWNLOAD_DIR = "downloads"
 
 
